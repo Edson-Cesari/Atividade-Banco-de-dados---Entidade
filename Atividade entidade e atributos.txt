@@ -1,0 +1,9 @@
+Atividade: Criar uma entidade com atributos: simples, composto, multivalorados.
+
+
+Entidade: Aluno.
+
+Atributos: CPF(simples).
+	   Nome(simples).
+	   Endereco-> Cidade -> Estado -> logradouro(composto).
+	   Telefone- tel1,tel2...(Multivalorado).
